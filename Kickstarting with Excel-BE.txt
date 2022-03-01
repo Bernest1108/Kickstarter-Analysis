@@ -1,0 +1,39 @@
+# Kickstarting with Excel
+
+
+## Overview of Project
+*This project is an analysis of a robust Kickstarter data set. 
+High level goal is applying past transactions to future funding trends.
+ 
+
+
+## Purpose
+*We are providing our client Louise with a historical analysis of campaign transactions to increase her chance of success.  
+
+
+### Analysis and Challenges
+*My analysis of a data set spanning 8 years may confidently be used to make an informed campaign decision. (https://github.com/Bernest1108/Kickstarter-Analysis/blob/main/Kickstarter_Challenge%202.0%20ZIP.zip).
+Challenges encountered and overcome in the analysis were related to  the conversion of Unix timestamps.     
+
+ 
+
+
+### Results
+
+- What are two conclusions you can draw about the Theater Outcomes based on Launch Date?
+ *Highest volume of campaigns are launched within April, May, June and July.
+ *The highest success rate was within the month May at 67%.
+
+
+- What can you conclude about the Outcomes based on Goals?
+ *Lower goal amounts trend towards a higher percentage of success.   
+
+
+- What are some limitations of this dataset?
+ *Not knowing the geographic location beyond country of origin.
+ *Elements that may have contributed to the outcome outside of achieving the dollar goal. 
+ *Kickstarter is the only source for data set. 
+
+
+- What are some other possible tables and/or graphs that we could create?
+ *Outcome based on blurb topic.
